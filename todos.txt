@@ -1,0 +1,13 @@
+
+	Title
+	Streaming App
+	Rating
+	Review
+
+# get all
+# add show 
+# delete show
+# update 
+
+# jwt validation
+
